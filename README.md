@@ -1,16 +1,26 @@
 ### Hi there 👋 I'm Naveen
 
-<!--
-**NaveenG46/NaveenG46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Here is my 
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+Hello! I'm Naveen, a passionate Flutter developer eager to learn and contribute to innovative projects in the mobile app development space. 
+I recently embarked on my journey into the world of Flutter development and am excited to explore its endless possibilities.
+
+## Skills
+- Flutter & Dart
+- UI/UX Design
+- State Management
+- Firebase Integration
+- Version Control (Git)
+- Problem-Solving
+
+## Projects
+### Project 1: Workout App
+Description: Brief description of the project. Mention the purpose, technologies used, and any notable features.
+### Project 2: [Project Name](link_to_repository)
+Description: Brief description of the project. Mention the purpose, technologies used, and any notable features.
+### Project 3: [Project Name](link_to_repository)
+Description: Brief description of the project. Mention the purpose, technologies used, and any notable features.
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Email: naveenkumar.im7@gmail.com
+
+Feel free to connect with me for job opportunities, project discussions, or just to say hi.
