@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Naveen
 
-- 🌱 I’m currently learning ...
+##About Me
 Hello! I'm Naveen, a passionate Flutter developer eager to learn and contribute to innovative projects in the mobile app development space. 
 I recently embarked on my journey into the world of Flutter development and am excited to explore its endless possibilities.
 
