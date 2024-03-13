@@ -14,4 +14,4 @@ Feel free to connect with me for job opportunities, project discussions, or just
 <img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="dart"/> <img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/> <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/api-settings.png" alt="api-settings"/>
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/android-studio--v3.png" alt="android-studio--v3"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/android-studio--v3.png" alt="android-studio--v3"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
